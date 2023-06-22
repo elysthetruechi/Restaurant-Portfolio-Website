@@ -1397,6 +1397,7 @@ footer span .text p{
     left: 80px;
     bottom: 40px;
     font-weight: 400;
+    font-size: 8px;
   }
   .testimonial .carousel .card .box{
     display: flex;
