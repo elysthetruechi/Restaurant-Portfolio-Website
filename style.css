@@ -1080,6 +1080,7 @@ footer .unicon i {
       transition: color 0.5s ease;
       font-family: 'Rubik', sans-serif;
     }
+
     .home .home-content {
       text-align:center;
       justify-content: center;
@@ -1087,6 +1088,7 @@ footer .unicon i {
       width:100%;
       height: auto;
       margin:50px auto;
+      margin-bottom: none;
       
     }
     .contact-left{
@@ -1101,6 +1103,7 @@ footer .unicon i {
       top:530px;
       left:25px;
       padding:20px;
+      margin: 50px auto;
       box-shadow: 0px 5px 15px 0px rgba(105, 105, 105, 0.6);
     }
     .home .home-content p{
@@ -1248,8 +1251,7 @@ border: 6px solid grey;
     }
     .parent img{
       height: 378px;
-      width: 390px;
-      margin-right:5px;
+      width: 380px;
       padding-bottom: 10px;
     }
     .services .services-content .grid {
