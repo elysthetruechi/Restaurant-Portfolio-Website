@@ -1070,7 +1070,7 @@ footer .unicon i {
     height:fit-content;
   }
 }
-  @media (max-width: 500px){
+  @media (max-width:480px){
     .navbar .logo a {
       position: relative;
       left:35px ;
