@@ -672,6 +672,36 @@ footer .unicon i {
 }
 
   /*responsive*/
+  @media (max-width: 1280px){
+    .contact-left{
+      align-items: center;
+      justify-content: center;
+      width: 380px;
+      height: 490px;
+      background: white;
+      border-radius:5px;
+      position: absolute;
+      top:210px;
+      left: 800px;
+      padding: 25px;
+      box-shadow: 0px 5px 15px 0px rgba(105, 105, 105, 0.6);
+    }
+  }
+  @media (max-width: 884px){
+    .contact-left{
+      align-items: center;
+      justify-content: center;
+      width: 380px;
+      height: 490px;
+      background: white;
+      border-radius:5px;
+      position: relative;
+      top:210px;
+      left: 800px;
+      padding: 25px;
+      box-shadow: 0px 5px 15px 0px rgba(105, 105, 105, 0.6);
+    }
+  }
   @media (max-width: 947px){
      .menu-btn {
       display: block;
