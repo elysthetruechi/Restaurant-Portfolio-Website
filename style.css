@@ -1134,6 +1134,8 @@ footer .unicon i {
       align-items: center;
       justify-content: space-between;
       width: 100%;
+      position: relative;
+      left: 15px;
       margin-right:0;
     }
     .about .about-content .column {
